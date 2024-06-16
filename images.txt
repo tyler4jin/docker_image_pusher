@@ -9,3 +9,4 @@ mzz2017/v2raya
 --platform=linux/arm/v7 mzz2017/v2raya:latest
 emby/embyserver_arm32v7
 xiaoyaliu/alist
+tailscale
