@@ -7,5 +7,5 @@ xiaoyaliu/alist
 xhofe/alist:latest
 mzz2017/v2raya
 --platform=linux/arm/v7 mzz2017/v2raya:latest
-xiaoyaliu/alist:latest
+xiaoyaliu/alist
 emby/embyserver_arm32v7
