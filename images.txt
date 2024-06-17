@@ -10,3 +10,4 @@ mzz2017/v2raya
 emby/embyserver_arm32v7
 xiaoyaliu/alist
 tailscale
+emby/embyserver
